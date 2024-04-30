@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramData\\Unity\\Unit 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|D:\\ProgramData\\Unity\\Unit 5\\assets\\scripts\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|d:\\programdata\\unity\\unit 5\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|D:\\ProgramData\\Unity\\Unit 5\\assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|D:\\ProgramData\\Unity\\Unit 5\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|D:\\ProgramData\\Unity\\Unit 5\\assets\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|D:\\ProgramData\\Unity\\Unit 5\\assets\\scripts\\fadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF9D474-F9F8-1302-76F0-59BCD8466EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FadingText.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\FadingText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadingText.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\FadingText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadingText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:08:42.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blade.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\Blade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blade.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\Blade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blade.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:37:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerupManager.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\PowerupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerupManager.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\PowerupManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerupManager.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAywEcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:03:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DifficultyButton.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultyButton.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultyButton.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:43:52.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwGUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:27:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "D:\\ProgramData\\Unity\\Unit 5\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAywAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:14:19.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
